@@ -1,7 +1,7 @@
 # Titanic
 Prediction of Survivability using Machine Learning
 
-Data: The Titanic data is a dataset provided by Kaggle publicly - https://www.kaggle.com/c/titanic/data . The data set has information about all the passengers onboard on RMS Titanic which sank after striking an iceberg.
+Data: The Titanic data is a dataset provided by Kaggle publicly - https://www.kaggle.com/c/titanic/data . The data set has information about selected the passengers onboard on RMS Titanic which sank after striking an iceberg.
 
 Goal: Come up with a classification Model which has highest the accuracy interms of predicting the survivability of passengers.
 
